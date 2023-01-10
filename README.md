@@ -1,4 +1,4 @@
-# aws_ml_workflow
+# AWS Machine Learning Workflow
  
 This is a project to deploy an end-to-end ML Workflow on AWS that was created as part as part of the AWS Machine Learning Engineer nanodegree. 
 
